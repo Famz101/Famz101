@@ -1,6 +1,6 @@
- Hi, I’m Famuyiwa Olayinka Olumuyiwa
- I’m passionate about learning new things
- I’m currently learning Cloud Solutions Architect
+ Hi, I’m Famuyiwa Olayinka Olumuyiwa.
+ I’m passionate about learning new things.
+ I’m currently learning Cloud Solutions Architect.
  I’m looking to collaborate on any cloud-related project.
  
 
